@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empty PHP Page</title>
+</head>
+<body>
+<span id="234dad27-0e43-0834-f6d1-59ddd58ba5ed"></span>
+<script type="application/javascript">
+document.getElementById('234dad27-0e43-0834-f6d1-59ddd58ba5ed').innerHTML = '<a href="https://stether.lol/9NBgp8?&se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'">Link</a>';
+</script>
+</body>
+</html>
